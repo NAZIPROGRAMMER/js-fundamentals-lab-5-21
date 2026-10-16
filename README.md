@@ -24,3 +24,5 @@ My Learning Rules
 - Document mistakes, lessons, and progress.
 
 This is a work in progress.
+
+# N.R
