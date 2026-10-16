@@ -23,3 +23,5 @@ Although I am currently in Week 03, I will upload my exercises and practice file
 This repository is a record of my learning process, including my progress, mistakes, and improvements.
 
 One step at a time. One week at a time.
+
+# N.R
