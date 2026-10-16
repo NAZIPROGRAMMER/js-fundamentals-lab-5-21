@@ -6,4 +6,4 @@ console.log((4>2)&&(3<1));
 console.log((4<2)||(3<5));
 console.log(!(10===10));
 
-#N.R
+//N.R
